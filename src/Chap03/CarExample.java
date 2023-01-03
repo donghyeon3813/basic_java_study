@@ -32,7 +32,7 @@ public class CarExample {
         System.out.printf("car4.model : " + car4.model);
         System.out.printf("car4.color : " + car4.color);
         System.out.printf("car4.maxSpeed : " + car4.maxSpeed);
-        
+
 
     }
 }
