@@ -1,4 +1,4 @@
-package Chap03;
+package Chap03.sector00;
 
 public class StudentExample {
     public static void main(String[] args) {

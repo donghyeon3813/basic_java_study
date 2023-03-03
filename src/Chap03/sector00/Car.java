@@ -1,4 +1,4 @@
-package Chap03;
+package Chap03.sector00;
 
 public class Car {
     String company = "현대자도차";
