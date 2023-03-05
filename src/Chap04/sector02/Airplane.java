@@ -1,0 +1,13 @@
+package Chap04.sector02;
+
+public class Airplane {
+    public void land(){
+        System.out.println("착륙합니다.");
+    }
+    public void fly(){
+        System.out.println("일반비행합니다.");
+    }
+    public final void takeOff(){ // final method는 재정의를 할 수 없다.
+        System.out.println("이륙합니다.");
+    }
+}
