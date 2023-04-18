@@ -1,4 +1,4 @@
-package Chap06.sector02;
+package Chap06.api00.sector02;
 
 public class Member implements  Cloneable{
     public String id;

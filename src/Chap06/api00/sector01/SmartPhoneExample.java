@@ -1,4 +1,4 @@
-package Chap06.sector01;
+package Chap06.api00.sector01;
 
 public class SmartPhoneExample {
     public static void main(String[] args) {

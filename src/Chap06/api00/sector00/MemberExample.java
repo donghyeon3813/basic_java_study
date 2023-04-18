@@ -1,4 +1,4 @@
-package Chap06.sector00;
+package Chap06.api00.sector00;
 
 public class MemberExample {
     public static void main(String[] args) {
